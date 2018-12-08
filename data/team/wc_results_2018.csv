@@ -1,0 +1,65 @@
+,date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+0,2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,False
+1,2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,True
+2,2018-06-15,Morocco,IR Iran,0,1,FIFA World Cup,St. Petersburg,Russia,True
+3,2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True
+4,2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,True
+5,2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,True
+6,2018-06-16,Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,True
+7,2018-06-16,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,True
+8,2018-06-17,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,True
+9,2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,True
+10,2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-On-Don,Russia,True
+11,2018-06-18,Sweden,Korea Republic,1,0,FIFA World Cup,Nizhny Novgorod,Russia,True
+12,2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True
+13,2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True
+14,2018-06-19,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,True
+15,2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,True
+16,2018-06-19,Russia,Egypt,3,1,FIFA World Cup,St. Petersburg,Russia,False
+17,2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,True
+18,2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-On-Don,Russia,True
+19,2018-06-20,IR Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True
+20,2018-06-21,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,True
+21,2018-06-21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,True
+22,2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,True
+23,2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,St. Petersburg,Russia,True
+24,2018-06-22,Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,True
+25,2018-06-22,Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,True
+26,2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,True
+27,2018-06-23,Korea Republic,Mexico,1,2,FIFA World Cup,Rostov-On-Don,Russia,True
+28,2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,True
+29,2018-06-24,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,True
+30,2018-06-24,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,True
+31,2018-06-24,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,True
+32,2018-06-25,Uruguay,Russia,3,0,FIFA World Cup,Samara,Russia,True
+33,2018-06-25,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,True
+34,2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,True
+35,2018-06-25,IR Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True
+36,2018-06-26,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,True
+37,2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True
+38,2018-06-26,Nigeria,Argentina,1,2,FIFA World Cup,St. Petersburg,Russia,True
+39,2018-06-26,Iceland,Croatia,1,2,FIFA World Cup,Rostov-On-Don,Russia,True
+40,2018-06-27,Korea Republic,Germany,2,0,FIFA World Cup,Kazan,Russia,True
+41,2018-06-27,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,True
+42,2018-06-27,Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,True
+43,2018-06-27,Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,True
+44,2018-06-28,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,True
+45,2018-06-28,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,True
+46,2018-06-28,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,True
+47,2018-06-28,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,True
+48,2018-06-30,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,True
+49,2018-06-30,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,True
+50,2018-07-01,Spain,Russia,1,1,FIFA World Cup,Moscow,Russia,True
+51,2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True
+52,2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,True
+53,2018-07-02,Belgium,Japan,3,2,FIFA World Cup,Rostov-On-Don,Russia,True
+54,2018-07-03,Sweden,Switzerland,1,0,FIFA World Cup,St. Petersburg,Russia,True
+55,2018-07-03,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,True
+56,2018-07-06,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,True
+57,2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,True
+58,2018-07-07,Sweden,England,0,2,FIFA World Cup,Samara,Russia,True
+59,2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,False
+60,2018-07-10,France,Belgium,1,0,FIFA World Cup,St. Petersburg,Russia,True
+61,2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,True
+62,2018-07-14,Belgium,England,2,0,FIFA World Cup,St. Petersburg,Russia,True
+63,2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True
