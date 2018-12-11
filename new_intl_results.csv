@@ -39607,7 +39607,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-12 00:00:00,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,False
 2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,False
 2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,True
-2018-06-15,Morocco,Iran,0,1,FIFA World Cup,St. Petersburg,Russia,True
+2018-06-15,Morocco,IR Iran,0,1,FIFA World Cup,St. Petersburg,Russia,True
 2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True
 2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,True
 2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,True
@@ -39624,7 +39624,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-19,Russia,Egypt,3,1,FIFA World Cup,St. Petersburg,Russia,False
 2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,True
 2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-On-Don,Russia,True
-2018-06-20,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True
+2018-06-20,IR Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True
 2018-06-21,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,True
 2018-06-21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,True
 2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,True
@@ -39640,7 +39640,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-25,Uruguay,Russia,3,0,FIFA World Cup,Samara,Russia,True
 2018-06-25,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,True
 2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,True
-2018-06-25,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True
+2018-06-25,IR Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True
 2018-06-26,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,True
 2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True
 2018-06-26,Nigeria,Argentina,1,2,FIFA World Cup,St. Petersburg,Russia,True

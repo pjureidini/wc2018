@@ -6282,7 +6282,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-05-09 00:00:00.000000,Algeria,Saudi Arabia,0,2,Friendly,Cádiz,Spain,1,62,516,70,445,-8,71,L,2,0,0
 2018-05-11 00:00:00.000000,Kuwait,Palestine,2,0,Friendly,Kuwait City,Kuwait,0,176,88,83,401,93,-313,W,0,1,0
 2018-05-15 00:00:00.000000,Saudi Arabia,Greece,2,0,Friendly,Seville,Spain,1,70,445,44,657,26,-212,W,0,0,0
-2018-05-19 00:00:00.000000,Iran,Uzbekistan,1,0,Friendly,Teheran,Iran,0,36,727,88,381,-52,346,W,0,1,0
 2018-05-20 00:00:00.000000,Jordan,Cyprus,3,0,Friendly,Amman,Jordan,0,118,272,86,386,32,-114,W,0,1,0
 2018-05-25 00:00:00.000000,Kuwait,Egypt,1,1,Friendly,Kuwait,Kuwait,0,160,126,46,636,114,-510,D,1,1,0
 2018-05-25 00:00:00.000000,Kenya,Swaziland,0,1,Friendly,Machakos,Kenya,0,111,289,131,240,-20,49,L,2,1,0
@@ -6296,7 +6295,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-05-28 00:00:00.000000,Portugal,Tunisia,2,2,Friendly,Braga,Portugal,0,4,1306,14,1012,-10,294,D,1,1,0
 2018-05-28 00:00:00.000000,Italy,Saudi Arabia,2,1,Friendly,St. Gallen,Switzerland,1,20,947,67,462,-47,485,W,0,0,0
 2018-05-28 00:00:00.000000,Mexico,Wales,0,0,Friendly,Pasadena,USA,1,15,1008,21,931,-6,77,D,1,0,0
-2018-05-28 00:00:00.000000,Turkey,Iran,2,1,Friendly,Istanbul,Turkey,0,37,714,36,727,1,-13,W,0,1,0
 2018-05-28 00:00:00.000000,Korea Republic,Honduras,2,0,Friendly,Daegu,Korea Republic,0,61,520,59,530,2,-10,W,0,1,0
 2018-05-28 00:00:00.000000,Malawi,Mauritius,0,1,COSAFA Cup,Polokwane,South Africa,1,119,269,161,124,-42,145,L,2,0,0
 2018-05-28 00:00:00.000000,Angola,Botswana,1,2,COSAFA Cup,Polokwane,South Africa,1,138,221,142,195,-4,26,L,2,0,0
@@ -6368,7 +6366,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-06-08 00:00:00.000000,Germany,Saudi Arabia,2,1,Friendly,Leverkusen,Germany,0,1,1558,67,465,-66,1093,W,0,1,0
 2018-06-08 00:00:00.000000,Croatia,Senegal,2,1,Friendly,Osijek,Croatia,0,20,945,27,838,-7,107,W,0,1,0
 2018-06-08 00:00:00.000000,Switzerland,Japan,2,0,Friendly,Lugano,Switzerland,0,6,1199,61,521,-55,678,W,0,1,0
-2018-06-08 00:00:00.000000,Lithuania,Iran,0,1,Friendly,Moscow,Russia,1,126,239,37,708,89,-469,L,2,0,0
 2018-06-08 00:00:00.000000,Poland,Chile,2,2,Friendly,Poznań,Poland,0,8,1183,9,1135,-1,48,D,1,1,0
 2018-06-09 00:00:00.000000,Serbia,Bolivia,5,1,Friendly,Graz,Austria,1,34,751,59,536,-25,215,W,0,0,0
 2018-06-09 00:00:00.000000,Denmark,Mexico,2,0,Friendly,Brøndby,Denmark,0,12,1051,15,989,-3,62,W,0,1,0
@@ -6386,7 +6383,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-06-12 00:00:00.000000,Poland,Lithuania,4,0,Friendly,Warsaw,Poland,0,8,1183,126,239,-118,944,W,0,1,0
 2018-06-14 00:00:00.000000,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,0,70,457,67,465,3,-8,W,0,1,0
 2018-06-15 00:00:00.000000,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,1,45,649,14,1018,31,-369,L,2,0,0
-2018-06-15 00:00:00.000000,Morocco,Iran,0,1,FIFA World Cup,St. Petersburg,Russia,1,41,686,37,708,4,-22,L,2,0,0
+2018-06-15 00:00:00.000000,Morocco,IR Iran,0,1,FIFA World Cup,St. Petersburg,Russia,1,41,686,37,708,4,-22,L,2,0,0
 2018-06-15 00:00:00.000000,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,1,4,1274,10,1126,-6,148,D,1,0,0
 2018-06-16 00:00:00.000000,France,Australia,2,1,FIFA World Cup,Kazan,Russia,1,7,1198,36,718,-29,480,W,0,0,0
 2018-06-16 00:00:00.000000,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,1,5,1241,22,908,-17,333,D,1,0,0
@@ -6403,7 +6400,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-06-19 00:00:00.000000,Russia,Egypt,3,1,FIFA World Cup,St. Petersburg,Russia,0,70,457,45,649,25,-192,W,0,1,0
 2018-06-20 00:00:00.000000,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,1,4,1274,41,686,-37,588,W,0,0,0
 2018-06-20 00:00:00.000000,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-On-Don,Russia,1,14,1018,67,465,-53,553,W,0,0,0
-2018-06-20 00:00:00.000000,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,1,37,708,10,1126,27,-418,L,2,0,0
+2018-06-20 00:00:00.000000,IR Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,1,37,708,10,1126,27,-418,L,2,0,0
 2018-06-21 00:00:00.000000,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,1,12,1051,36,718,-24,333,D,1,0,0
 2018-06-21 00:00:00.000000,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,1,7,1198,11,1125,-4,73,W,0,0,0
 2018-06-21 00:00:00.000000,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,1,5,1241,20,945,-15,296,L,2,0,0
@@ -6419,7 +6416,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,h
 2018-06-25 00:00:00.000000,Uruguay,Russia,3,0,FIFA World Cup,Samara,Russia,1,14,1018,70,457,-56,561,W,0,0,1
 2018-06-25 00:00:00.000000,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,1,67,465,45,649,22,-184,W,0,0,0
 2018-06-25 00:00:00.000000,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,1,10,1126,41,686,-31,440,D,1,0,0
-2018-06-25 00:00:00.000000,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,1,37,708,4,1274,33,-566,D,1,0,0
+2018-06-25 00:00:00.000000,IR Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,1,37,708,4,1274,33,-566,D,1,0,0
 2018-06-26 00:00:00.000000,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,1,36,718,11,1125,25,-407,L,2,0,0
 2018-06-26 00:00:00.000000,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,1,12,1051,7,1198,5,-147,D,1,0,0
 2018-06-26 00:00:00.000000,Nigeria,Argentina,1,2,FIFA World Cup,St. Petersburg,Russia,1,48,618,5,1241,43,-623,L,2,0,0
